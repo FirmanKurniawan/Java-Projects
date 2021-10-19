@@ -8,3 +8,5 @@ System.out.println("2nd Random Number: " + Math.random());
 System.out.println("3rd Random Number: " + Math.random());    
 }   
 } 
+#Hacktober-fest-indonesia
+#Hacktober-2021
