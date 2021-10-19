@@ -10,3 +10,4 @@ System.out.println("3rd Random Number: " + Math.random());
 } 
 #Hacktober-fest-indonesia
 #Hacktober-2021
+#Hacktober-INA
