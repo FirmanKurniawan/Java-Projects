@@ -28,9 +28,8 @@ public class Fibonacci {
 			 System.out.print(fact+" ");
 			 
 		}
-		sc.close();
-	}
-
+		//sc.close();
+    }
 }
-#hacktoberfest2021
-#hacktober-Happy
+//hacktoberfest2021
+//hacktober-Happy
