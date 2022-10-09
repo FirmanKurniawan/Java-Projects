@@ -20,7 +20,7 @@ public class LinkedList {
       nama_buah.add("jeruk");
       nama_buah.add("manggis");
       nama_buah.add("anggur");
-   
+        System.out.println("==========================");
         System.out.println("Nama Buah : " + nama_buah);//print list buah
         System.out.println("Jumlah Buah :" + nama_buah.size() + "\n");//print jumlah buah
         System.out.println("==========================");
