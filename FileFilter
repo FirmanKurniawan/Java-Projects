@@ -1,0 +1,19 @@
+import java.io.File;
+import java.io.FilenameFilter;
+
+public class FileFilter {
+
+    public static void main(String[] args) {
+        File dir = new File(".\\src\\");
+        if (dir.isDirectory()) {
+            String[] files = dir.list(new FilenameFilter() {
+                public boolean accept(File dir, String file) {
+                    return file.endsWith(".txt");
+                }
+            });
+            for (String file : files) {
+                System.out.println(file);
+            }
+        }
+    }
+}
