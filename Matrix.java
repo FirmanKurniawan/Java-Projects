@@ -22,6 +22,8 @@ public class Matrix {
                 a[i][j] = sc.nextInt();
             }
         }
+
+        sc.close();
         int[][] result = new int[n][n];
 
         for (int i = 0; i < n; i++)
