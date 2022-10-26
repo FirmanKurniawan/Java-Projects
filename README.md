@@ -1,6 +1,6 @@
 # Java-Project
 
-Java Projects is a Python Projects library made by Open-Source Enthusiast.
+Java Projects is a Python Projects Library made by Open-Source Enthusiast.
 
 ## Contributing
 
@@ -9,7 +9,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contibuters
 
 <a href="https://github.com/FirmanKurniawan/Java-Projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FirmanKurniawan/Java-Projects" />
+  <img src="https://contrib.rocks/image?repo=FirmanKurniawan/Java-Projects"/>
 </a>
 
 ## License
