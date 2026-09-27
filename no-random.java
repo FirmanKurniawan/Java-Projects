@@ -1,15 +1,14 @@
 import java.lang.Math;   
-public class RandomNumberExample1  
-{   
-public static void main(String args[])   
-{   
-System.out.println("1st Random Number: " + Math.random());   
-System.out.println("2nd Random Number: " + Math.random());  
-System.out.println("3rd Random Number: " + Math.random());    
-}   
+public class RandomNumberExample1 {   
+    public static void main(String[] args){
+ 
+for(int i = 0; i < 3; i++){
+System.out.println(i+1 + " Random Number: " + Math.random());    
+        }
+    }   
 } 
-#Hacktober-fest-indonesia
-#Hacktober-2021
-#Hacktober-INA
-#Hacktober-happy
-#kustirama
+//Hacktober-fest-indonesia
+//Hacktober-2021
+//Hacktober-INA
+//Hacktober-happy
+//kustirama

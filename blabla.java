@@ -1,4 +1,3 @@
-Here is simple code for calculator so you can consider this
 import java.util.*;
 import java.util.Scanner;
 public class Hello {
@@ -57,6 +56,3 @@ public class Hello {
     }
 
 }
-#hacktober-fest-indonesia-2021
-#hacktober-fest
-#HacktoberHappy
